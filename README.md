@@ -1,6 +1,6 @@
 # async-http-python-and-js
 
-Here's a Markdown file with examples broken down by task type, comparing JavaScript and Python for asynchronous functions:
+Here's a Markdown file with examples broken down by task type, comparing JavaScript and Python for asynchronous functions making HTTP calls:
 
 ```markdown
 # Asynchronous Functions and HTTP Calls: JavaScript vs. Python
