@@ -1,7 +1,3 @@
-# Comparing Python and JavaScript's Async Functionality in Network Calls
-
-Here's a Markdown file with examples broken down by task type, comparing JavaScript and Python for asynchronous functions making HTTP calls:
-
 # Asynchronous Functions and HTTP Calls: JavaScript vs. Python
 
 This document compares asynchronous functions and HTTP calls in JavaScript and Python, focusing on syntax and implementation for both task types.
