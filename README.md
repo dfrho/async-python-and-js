@@ -1,6 +1,6 @@
-# Asynchronous Functions and HTTP Calls: JavaScript vs. Python
+# Asynchronous Functions and HTTPS Calls: JavaScript vs. Python
 
-This document compares asynchronous functions and HTTP calls in JavaScript and Python, focusing on syntax and implementation for both task types.
+This document compares asynchronous functions and HTTPS calls in JavaScript and Python, focusing on syntax and implementation for both task types.
 
 ## 1. Asynchronous Functions
 
